@@ -9,3 +9,5 @@ Inport the project to Eclipse<br>
 Modify the class as instructed<br>
 Commit changes to github<br>
 Verify that the changes are correctly reflected in github<br>
+
+I, Lukas Andre, have made a change
